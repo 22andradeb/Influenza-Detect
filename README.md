@@ -14,6 +14,17 @@
 - Final Metrics
 - Conclusion
 
+##Install
+
+Prereqs: conda/mamba, Git, and a working Jupyter setup ( can work in pycharm or any enviornment).
+Create the environment (recommended via conda/mamba):
+conda env create -f environment.yml
+conda activate 
+Verify Jupyter + widgets:
+python -c "import IPython, ipywidgets; print('Jupyter OK')"
+If using JupyterLab and widgets don’t render, ensure Lab ≥ 3.x. No manual widget install is typically required with this env.
+
+
 
 Health Organizations around the global struggle to properly detect illness within their clients, particularly those with influenza. Their issue is understanding when to expect an influenza outbreak. Countries all over the world have not been able to decide on how to accurately detect influenza outbreaks. Our goal is to provide the world health organization as well as other health centers, insights on what surveillance type is more effective and where to allocate resources
 
