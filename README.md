@@ -19,7 +19,7 @@
 Prereqs: conda/mamba, Git, and a working Jupyter setup ( can work in pycharm or any enviornment).
 Create the environment (recommended via conda/mamba):
 conda env create -f environment.yml
-conda activate 
+conda activate ie_deeplearning
 Verify Jupyter + widgets:
 python -c "import IPython, ipywidgets; print('Jupyter OK')"
 If using JupyterLab and widgets don’t render, ensure Lab ≥ 3.x. No manual widget install is typically required with this env.
