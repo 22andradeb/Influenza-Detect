@@ -3,16 +3,16 @@
 
 
 ### Project Structure:
-Clinical Problem/Storyline
-Initial Assumptions
-Dataset Characteristics
-Experementation
-Mid-Project planning
-Preprocessing
-Baseline Models
-Improvements
-Final Metrics
-Conclusion
+- Clinical Problem/Storyline
+- Initial Assumptions
+- Dataset Characteristics
+- Experementation
+- Mid-Project planning
+- Preprocessing
+- Baseline Models
+- Improvements
+- Final Metrics
+- Conclusion
 
 
 Health Organizations around the global struggle to properly detect illness within their clients, particularly those with influenza. Their issue is understanding when to expect an influenza outbreak. Countries all over the world have not been able to decide on how to accurately detect influenza outbreaks. Our goal is to provide the world health organization as well as other health centers, insights on what surveillance type is more effective and where to allocate resources
