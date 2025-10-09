@@ -1,0 +1,19 @@
+name: ie_deeplearning
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchaudio
+  - torchvision
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - ipykernel
+  - jupyterlab
+  - conda-forge::imageio
+prefix: /Users/beatrizblanc/anaconda3/envs/ie_deeplearning
